@@ -1,16 +1,34 @@
-## Hi there 👋
+# ✨Tainara Konzen
 
-<!--
-**Konzen-tai/Konzen-tai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma analista financeira descobrindo o mundo do desenvolvimento de sistemas 👩🏻‍💻
 
-Here are some ideas to get you started:
+## Educação
+ - Graduada em Gestão Financeira - Feevale
+ - Cursando Técnico em Desenvolvimento de Sistemas - SENAC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiências de Trabalho
+
+ - Analista Financeiro na One Telecom Telecomunicações (2018 - atualmente)
+ > Controle de contas a pagar, faturamento, controle de fluxo de caixa, geração e análise de relatórios e conciliação bancária 
+ - Operadora de Caixa no Bazar Real  (2015 - 2018)
+ > Atendimento a cliente, abertura e fechamento de caixa, recebimento de pagamentos e cadastro de produtos
+
+## Hobies
+
+- Dança
+- Filmes e séries
+- Leitura
+- Quebra-cabeça
+- Cozinhar
+- Trabalhos manuais
+
+## Redes Sociais
+
+[Instagram](instagram.com/tai.konzen)
+
+## Contato
+
+📩 tainarakonzen@gmail.com
+
+
+![Imagem de Perfil](https://github.com/Konzen-tai/Konzen-tai/blob/main/GG3_6043.jpg)
